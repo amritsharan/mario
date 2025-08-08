@@ -15,8 +15,9 @@ public class LoginRedirect {
 
         if(username.equals("AMRIT") && password.equals("2005")) {
             System.out.println("Login successful! Redirecting to Contineo portal...");
-            openWebpage("https://sims.sit.ac.in");
-        } else {
+            System.out.println("Opening URL: https://sims.sit.ac.in/parents/index.php");
+            openWebpage("https://sims.sit.ac.in/parents/index.php");
+        }else {
             System.out.println("Invalid username or password.");
         }
 
