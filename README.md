@@ -31,10 +31,6 @@ Right Arrow: Move right
 
 Spacebar: Jump
 
-Screenshot
-
-(Replace this with your actual screenshot file in the repo)
-
 Author
 Amrit S R
 
@@ -44,11 +40,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-# **Tips to add a screenshot:**
-
-1. Take a screenshot of your running game window.
-2. Save it as `screenshot.png` inside your project folder.
-3. Commit and push the updated README and image.
 
 ---
 
